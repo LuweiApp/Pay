@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.luwei.pay">
+
+    <application>
+        <activity
+            android:name=".wechat.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTask" />
+    </application>
+</manifest>

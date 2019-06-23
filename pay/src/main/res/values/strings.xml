@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pay</string>
+
+    <!-- 支付宝 -->
+    <string name="alipay_handler">正在处理中</string>
+    <string name="alipay_failure">订单支付失败</string>
+    <string name="alipay_repeat_pay">重复请求</string>
+    <string name="alipay_cancel">已取消支付</string>
+    <string name="alipay_net_error">网络连接出错</string>
+    <string name="pay_success">支付成功</string>
+    <string name="pay_has_ready">准备好了</string>
+</resources>
